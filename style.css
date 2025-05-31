@@ -1,0 +1,181 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+div.rock{
+    background-color: gold;
+    border: 5px solid black;
+}
+dir,img{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+h1.die{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT',;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+b{
+    color: blue;
+
+}
+kbd{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 8pxpx;
+}
+sup{
+    font-size: 10px;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler,;
+    font-style: italic;
+}
+p{
+     margin-top: 0;
+     margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Impact, Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+div.vic{
+    background-color: black;
+    color: #fff;
+    border: 3px solid white;
+}
+img{
+    background-color:white;
+    margin: 0px;
+    padding: 0px;
+}
+h1.time{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+nav,a{
+    text-decoration: none;
+    padding: 20px;
+}
+h1#hj{
+    color: black;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: inherit;
+    font-size: 50px;
+    width: 100%;
+}
+
+    
+
+div#u{
+    background-color: lightslategray;
+  border: 25px solid black;
+ padding: 20px;
+   display: flex;
+    align-items: center;
+    gap: 100px;
+    width: 100%;
+}
+.gtw{
+    text-align: center;
+    width: 200px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+.gtw:hover{
+    background-color: lightgray;
+    opacity: 0.8;
+    transition: 0.3s;
+
+}
+.ga:hover{
+    background-color: lightgray;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+.gta{
+    text-align: center;
+    border: 2px solid white; 
+    width: 200px;
+    cursor: pointer;
+}
+.gta:hover{
+    background-color: lightgray;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+.gto{
+    text-align: center;
+ border: 2px solid white;
+  border: 2px solid white;
+    width: 200px;
+    cursor: pointer;
+}
+.gto:hover{
+    background-color: lightgray;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+div#HI{
+    background-color: dimgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50;
+}
+div#HI,img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin: 40px;
+
+}
+p.bg{
+    background-color: lightgray;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 7px;
+    margin-top: 0px;
+}
+div.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
